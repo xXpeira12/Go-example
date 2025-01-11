@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/google/uuid"
-	"github.com/xXpeira12/Go-example/HelloWorld/sirasit"
+	"github.com/xXpeira12/Go-example/01_HelloWorld/sirasit"
 )
 
 func main() {

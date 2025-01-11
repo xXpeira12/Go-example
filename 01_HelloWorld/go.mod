@@ -1,4 +1,4 @@
-module github.com/xXpeira12/Go-example/HelloWorld
+module github.com/xXpeira12/Go-example/01_HelloWorld
 
 go 1.22.2
 

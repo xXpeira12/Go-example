@@ -2,7 +2,7 @@ package sirasit
 
 import (
 	"fmt"
-	"github.com/xXpeira12/Go-example/HelloWorld/sirasit/internal/tana"
+	"github.com/xXpeira12/Go-example/01_HelloWorld/sirasit/internal/tana"
 )
 
 func SayHelloSirasit() {
